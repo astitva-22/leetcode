@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/astitva-22/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/astitva-22/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/astitva-22/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/astitva-22/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/astitva-22/leetcode/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/astitva-22/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## String
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/astitva-22/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
