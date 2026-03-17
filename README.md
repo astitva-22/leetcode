@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/astitva-22/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/astitva-22/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/astitva-22/leetcode/tree/master/0056-merge-intervals) |
+| [0209-minimum-size-subarray-sum](https://github.com/astitva-22/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0455-assign-cookies](https://github.com/astitva-22/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/astitva-22/leetcode/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/astitva-22/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/astitva-22/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/astitva-22/leetcode/tree/master/0055-jump-game) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/astitva-22/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/astitva-22/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/astitva-22/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
