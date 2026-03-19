@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/astitva-22/leetcode/tree/master/1695-maximum-erasure-value) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/astitva-22/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/astitva-22/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/astitva-22/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/astitva-22/leetcode/tree/master/0860-lemonade-change) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/astitva-22/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/astitva-22/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/astitva-22/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/astitva-22/leetcode/tree/master/0621-task-scheduler) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/astitva-22/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/astitva-22/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/astitva-22/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
