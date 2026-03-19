@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/astitva-22/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-erasure-value](https://github.com/astitva-22/leetcode/tree/master/1695-maximum-erasure-value) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/astitva-22/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/astitva-22/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/astitva-22/leetcode/tree/master/0763-partition-labels) |
 | [1208-get-equal-substrings-within-budget](https://github.com/astitva-22/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/astitva-22/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/astitva-22/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Counting
 |  |
 | ------- |
