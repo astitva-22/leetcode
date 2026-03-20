@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/astitva-22/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/astitva-22/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/astitva-22/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2611-mice-and-cheese](https://github.com/astitva-22/leetcode/tree/master/2611-mice-and-cheese) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/astitva-22/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/astitva-22/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/astitva-22/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2611-mice-and-cheese](https://github.com/astitva-22/leetcode/tree/master/2611-mice-and-cheese) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/astitva-22/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/astitva-22/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/astitva-22/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2611-mice-and-cheese](https://github.com/astitva-22/leetcode/tree/master/2611-mice-and-cheese) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/astitva-22/leetcode/tree/master/0621-task-scheduler) |
+| [2611-mice-and-cheese](https://github.com/astitva-22/leetcode/tree/master/2611-mice-and-cheese) |
 ## Backtracking
 |  |
 | ------- |
