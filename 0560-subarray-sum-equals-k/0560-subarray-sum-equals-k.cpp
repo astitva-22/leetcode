@@ -9,10 +9,11 @@ public:
         }
         int count=0;
         unordered_map<int,int> mp;
-        mp[0]=1;
+        int curr=0;
         for(int i=0;i<n;i++){
-            if(mp.find(pre[i]-k)!=mp.end()) count +=mp[pre[i]-k];
-            mp[pre[i]]++;
+            mp[curr]++;
+            curr+=nums[i];
+            if(mp.find(curr-k)!=mp.end()) count +=mp[curr-k];
         }
         return count;
     }
