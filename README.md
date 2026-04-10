@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/astitva-22/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/astitva-22/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/astitva-22/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/astitva-22/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/astitva-22/leetcode/tree/master/0055-jump-game) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/astitva-22/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/astitva-22/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/astitva-22/leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
