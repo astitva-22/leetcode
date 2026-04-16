@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/astitva-22/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/astitva-22/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/astitva-22/leetcode/tree/master/0078-subsets) |
+| [0113-path-sum-ii](https://github.com/astitva-22/leetcode/tree/master/0113-path-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -158,4 +159,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/astitva-22/leetcode/tree/master/0322-coin-change) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/astitva-22/leetcode/tree/master/0113-path-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/astitva-22/leetcode/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/astitva-22/leetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
