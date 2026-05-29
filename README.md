@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/astitva-22/leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/astitva-22/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/astitva-22/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/astitva-22/leetcode/tree/master/0045-jump-game-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/astitva-22/leetcode/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/astitva-22/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/astitva-22/leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/astitva-22/leetcode/tree/master/0763-partition-labels) |
