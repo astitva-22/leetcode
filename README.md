@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/astitva-22/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/astitva-22/leetcode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/astitva-22/leetcode/tree/master/0763-partition-labels) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/astitva-22/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -177,4 +178,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/astitva-22/leetcode/tree/master/0113-path-sum-ii) |
 | [0337-house-robber-iii](https://github.com/astitva-22/leetcode/tree/master/0337-house-robber-iii) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/astitva-22/leetcode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/astitva-22/leetcode/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/astitva-22/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
