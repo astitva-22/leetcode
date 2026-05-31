@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/astitva-22/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/astitva-22/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/astitva-22/leetcode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/astitva-22/leetcode/tree/master/0763-partition-labels) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/astitva-22/leetcode/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/astitva-22/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/astitva-22/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/astitva-22/leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/astitva-22/leetcode/tree/master/0763-partition-labels) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/astitva-22/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/astitva-22/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
