@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/astitva-22/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/astitva-22/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/astitva-22/leetcode/tree/master/0455-assign-cookies) |
+| [0647-palindromic-substrings](https://github.com/astitva-22/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/astitva-22/leetcode/tree/master/0763-partition-labels) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/astitva-22/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/astitva-22/leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/astitva-22/leetcode/tree/master/0337-house-robber-iii) |
 | [0435-non-overlapping-intervals](https://github.com/astitva-22/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0647-palindromic-substrings](https://github.com/astitva-22/leetcode/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/astitva-22/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/astitva-22/leetcode/tree/master/0763-partition-labels) |
 | [1208-get-equal-substrings-within-budget](https://github.com/astitva-22/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/astitva-22/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
