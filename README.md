@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/astitva-22/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/astitva-22/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/astitva-22/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/astitva-22/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/astitva-22/leetcode/tree/master/0040-combination-sum-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/astitva-22/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/astitva-22/leetcode/tree/master/0031-next-permutation) |
 | [0160-intersection-of-two-linked-lists](https://github.com/astitva-22/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/astitva-22/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/astitva-22/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/astitva-22/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/astitva-22/leetcode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/astitva-22/leetcode/tree/master/0435-non-overlapping-intervals) |
