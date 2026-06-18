@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/astitva-22/leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/astitva-22/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/astitva-22/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/astitva-22/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/astitva-22/leetcode/tree/master/0045-jump-game-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/astitva-22/leetcode/tree/master/0031-next-permutation) |
 | [0160-intersection-of-two-linked-lists](https://github.com/astitva-22/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/astitva-22/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/astitva-22/leetcode/tree/master/0455-assign-cookies) |
