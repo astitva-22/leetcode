@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/astitva-22/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/astitva-22/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/astitva-22/leetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/astitva-22/leetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/astitva-22/leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/astitva-22/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/astitva-22/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/astitva-22/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/astitva-22/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/astitva-22/leetcode/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/astitva-22/leetcode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/astitva-22/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/astitva-22/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/astitva-22/leetcode/tree/master/0455-assign-cookies) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/astitva-22/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/astitva-22/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/astitva-22/leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/astitva-22/leetcode/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/astitva-22/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/astitva-22/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/astitva-22/leetcode/tree/master/0455-assign-cookies) |
