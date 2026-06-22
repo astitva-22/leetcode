@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/astitva-22/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/astitva-22/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/astitva-22/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/astitva-22/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/astitva-22/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/astitva-22/leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/astitva-22/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/astitva-22/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/astitva-22/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/astitva-22/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/astitva-22/leetcode/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/astitva-22/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/astitva-22/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/astitva-22/leetcode/tree/master/0455-assign-cookies) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/astitva-22/leetcode/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/astitva-22/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/astitva-22/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/astitva-22/leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/astitva-22/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/astitva-22/leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/astitva-22/leetcode/tree/master/0763-partition-labels) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/astitva-22/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/astitva-22/leetcode/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/astitva-22/leetcode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/astitva-22/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
