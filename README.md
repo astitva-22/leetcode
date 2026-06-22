@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/astitva-22/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/astitva-22/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/astitva-22/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/astitva-22/leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/astitva-22/leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/astitva-22/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/astitva-22/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/astitva-22/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/astitva-22/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/astitva-22/leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/astitva-22/leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/astitva-22/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/astitva-22/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/astitva-22/leetcode/tree/master/0455-assign-cookies) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/astitva-22/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/astitva-22/leetcode/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/astitva-22/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1208-get-equal-substrings-within-budget](https://github.com/astitva-22/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 ## Sliding Window
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/astitva-22/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/astitva-22/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/astitva-22/leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/astitva-22/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/astitva-22/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/astitva-22/leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/astitva-22/leetcode/tree/master/0763-partition-labels) |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/astitva-22/leetcode/tree/master/0268-missing-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/astitva-22/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Game Theory
 |  |
@@ -194,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/astitva-22/leetcode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/astitva-22/leetcode/tree/master/0268-missing-number) |
 ## Breadth-First Search
 |  |
 | ------- |
