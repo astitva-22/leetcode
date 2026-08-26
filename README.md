@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/astitva-22/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/astitva-22/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/astitva-22/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/astitva-22/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/astitva-22/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2611-mice-and-cheese](https://github.com/astitva-22/leetcode/tree/master/2611-mice-and-cheese) |
 ## Two Pointers
@@ -276,4 +277,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/astitva-22/leetcode/tree/master/0542-01-matrix) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/astitva-22/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+## Simulation
+|  |
+| ------- |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/astitva-22/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 <!---LeetCode Topics End-->
