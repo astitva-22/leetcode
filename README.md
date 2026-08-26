@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/astitva-22/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/astitva-22/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/astitva-22/leetcode/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/astitva-22/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/astitva-22/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/astitva-22/leetcode/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/astitva-22/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/astitva-22/leetcode/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/astitva-22/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/astitva-22/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/astitva-22/leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/astitva-22/leetcode/tree/master/0647-palindromic-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/astitva-22/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Binary Search
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/astitva-22/leetcode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/astitva-22/leetcode/tree/master/0542-01-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -269,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/astitva-22/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/astitva-22/leetcode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
