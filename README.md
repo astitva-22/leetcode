@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/astitva-22/leetcode/tree/master/0860-lemonade-change) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/astitva-22/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/astitva-22/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1020-number-of-enclaves](https://github.com/astitva-22/leetcode/tree/master/1020-number-of-enclaves) |
 | [1052-grumpy-bookstore-owner](https://github.com/astitva-22/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/astitva-22/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/astitva-22/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/astitva-22/leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/astitva-22/leetcode/tree/master/0542-01-matrix) |
+| [1020-number-of-enclaves](https://github.com/astitva-22/leetcode/tree/master/1020-number-of-enclaves) |
 ## Tree
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/astitva-22/leetcode/tree/master/0113-path-sum-ii) |
 | [0337-house-robber-iii](https://github.com/astitva-22/leetcode/tree/master/0337-house-robber-iii) |
+| [1020-number-of-enclaves](https://github.com/astitva-22/leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -277,9 +280,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/astitva-22/leetcode/tree/master/0542-01-matrix) |
+| [1020-number-of-enclaves](https://github.com/astitva-22/leetcode/tree/master/1020-number-of-enclaves) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/astitva-22/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Simulation
 |  |
 | ------- |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/astitva-22/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+## Union-Find
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/astitva-22/leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
