@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/astitva-22/leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/astitva-22/leetcode/tree/master/0542-01-matrix) |
+| [0802-find-eventual-safe-states](https://github.com/astitva-22/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/astitva-22/leetcode/tree/master/1020-number-of-enclaves) |
 ## Tree
 |  |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/astitva-22/leetcode/tree/master/0113-path-sum-ii) |
 | [0337-house-robber-iii](https://github.com/astitva-22/leetcode/tree/master/0337-house-robber-iii) |
+| [0802-find-eventual-safe-states](https://github.com/astitva-22/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/astitva-22/leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -290,4 +292,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1020-number-of-enclaves](https://github.com/astitva-22/leetcode/tree/master/1020-number-of-enclaves) |
+## Graph Theory
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/astitva-22/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/astitva-22/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/astitva-22/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/astitva-22/leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
